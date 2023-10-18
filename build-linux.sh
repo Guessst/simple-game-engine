@@ -1,11 +1,11 @@
 #!/bin/sh
 # Change your executable name here
-GAME_NAME="game"
+GAME_NAME="game1"
 
 # Set your sources here (relative paths!)
 # Example with two source folders:
 # SOURCES="src/*.c src/submodule/*.c"
-SOURCES="core_basic_window.c"
+SOURCES="src/main.c"
 
 # Set your raylib/src location here (relative path!)
 RAYLIB_SRC="raylib/src"

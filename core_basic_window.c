@@ -4,7 +4,7 @@
 *
 *   Welcome to raylib!
 *
-*   You can find all basic examples on C:\raylib\raylib\examples folder or
+*   You can find all basic examples raylib/raylib/examples folder or
 *   raylib official webpage: www.raylib.com
 *
 *   Enjoy using raylib. :)
@@ -25,7 +25,7 @@ int main(void)
     // Initialization
     //--------------------------------------------------------------------------------------
     int screenWidth = 800;
-    int screenHeight = 450;
+    int screenHeight = 600;
 
     InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
 
