@@ -1,7 +1,8 @@
 # simple-game-engine
-Repository originally made for the mini-course taught by me at UFF (7ª Semana da Computação - Minicurso: Game Engines) on October 19, 2023.
+Repository originally made for the mini-course taught by me at UFF (7ª Semana da Computação - Minicurso: Game Engines) on October 19, 2023. You can watch the live event by clicking the thumbnail below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0al4nz_JUWA?si=lGLui48-LW7s7CJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Live course @ Youtube](https://img.youtube.com/vi/0al4nz_JUWA/0.jpg)](https://www.youtube.com/watch?v=0al4nz_JUWA)
+
 
 # Building the project
 - TODO
